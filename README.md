@@ -61,7 +61,7 @@
 <h2>         ~ 📝  ᴄᴏɴᴛᴀᴄᴛᴀᴍᴇ  📝 ~ </h2>
 <br>
 <p align="center">Informacion sobre mis redes ^-^ </p>
-<p align="center"><a href="https://twitter.com/AzarielDev" target="_blank"><img src="https://img.shields.io/badge/Instagram-6014b8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
+<p align="center"><a href="https://www.instagram.com/aguuspeirano_/" target="_blank"><img src="https://img.shields.io/badge/Instagram-6014b8?style=for-the-badge&logo=instagram&logoColor=white"/></a>
 </div>
 <br>
 <div>

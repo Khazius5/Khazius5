@@ -2,7 +2,6 @@
 <h1 align="center"> ~ :sparkles: ʙɪᴇɴᴠᴇɴɪᴅᴏꜱ ᴀ ᴍɪ ᴘᴇʀꜰɪʟ :sparkles: ~</h1>
 <br>
 <div align="center">
-<img src="https://media.giphy.com/media/C1U9zEg0gS8mY/giphy.gif">
 </div>
 <br>
 <div>

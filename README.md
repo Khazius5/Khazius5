@@ -16,7 +16,7 @@
 <b>Género:</b> He | Him | Male
 </li>
 <li>
-<b>Hobbie: Jugar videojuegos, Mirar anime, Soporte Tecnico, Admin && Staff in Discord </b> 
+<b>Hobbie: Juegos RPG/MMORGP, Automovilismo, Soporte Tecnico, Admin && BotDev en Discord </b> 
 </li>
 <li>
 <b>Workspace: </b> ...

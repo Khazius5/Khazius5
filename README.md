@@ -40,7 +40,16 @@
 <h4 align="left"> 💻 Software y herramientas </h4>
 </p>
 <p>
-<img src="https://camo.githubusercontent.com/f7969a5c9a15fa0e1952f2da0ec92a09a6f0cbd54e6a030e17a634c1f092a8a1/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f2d4f425325323053747564696f2d3330324533313f6c6f676f3d6f62732d73747564696f266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/f53628686f10ddabc221f47e91499adfaaed5663511900009deb71bd3c873236/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f56697375616c25323053747564696f253230436f64652d3030373864372e7376673f6c6f676f3d76697375616c2d73747564696f2d636f6465266c6f676f436f6c6f723d7768697465"> <img src="https://camo.githubusercontent.com/eeb459fc13ab6e60e59ae4262a2c313ceeb3e6bc4440fe7554b5bb40c916a5ff/68747470733a2f2f696d672e736869656c64732e696f2f62616467652f416e64726f69642d3344444338343f6c6f676f3d616e64726f6964266c6f676f436f6c6f723d7768697465">
+
+<div align="left">
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="40" alt="javascript logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/discordjs/discordjs-original.svg" height="40" alt="discordjs logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="40" alt="python logo"  />
+  <img width="12" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="40" alt="vscode logo"  />
+</div>
 
 </p>
 

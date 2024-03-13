@@ -37,7 +37,7 @@
 
 
 <p>
-<h4 align="left"> 💻 Skills </h4>
+<h4 align="left"> 💻 Software y herramientas  </h4>
 </p>
 <p>
 
